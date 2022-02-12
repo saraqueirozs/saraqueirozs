@@ -1,4 +1,4 @@
-### Oiê, eu sou a Sara!
+### Hey! 👩🏻‍💻
 
 <div align="center">
 	<a href="https://github.com/saraqueirozs">
