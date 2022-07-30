@@ -10,12 +10,9 @@
 	<img align="center" alt="Sara-rb" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" />
 	<img align="center" alt="Sara-html" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 	<img align="center" alt="Sara-css" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+	<img align="center" alt="Sara-js" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 	<img align="center" alt="Sara-php" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-        <img align="center" alt="Sara-js" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-          
-	</div>
-  
-  ###
+
  
 <div> 
  	<a href="https://steamcommunity.com/profiles/76561199233702096" target="_blank"><img src="https://img.shields.io/badge/Steam-76561199233702096?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
